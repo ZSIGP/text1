@@ -1,0 +1,32 @@
+// 主色调
+$primary-color: #6699cc; // 淡蓝色
+$secondary-color: #9966cc; // 淡紫色
+
+// 背景色
+$bg-color: #f8faff;
+$bg-overlay: rgba(240, 245, 255, 0.95);
+
+// 文本颜色
+$text-color: rgba(51, 51, 51, 0.9);
+$text-light: rgba(255, 255, 255, 0.9);
+
+// 阴影
+$shadow-light: 0 8px 32px rgba(102, 153, 204, 0.1);
+$shadow-medium: 0 12px 36px rgba(102, 153, 204, 0.2);
+
+// 断点
+$breakpoint-sm: 576px;
+$breakpoint-md: 768px;
+$breakpoint-lg: 992px;
+$breakpoint-xl: 1200px;
+
+// 动画时间
+$transition-fast: 0.2s;
+$transition-normal: 0.3s;
+$transition-slow: 0.5s;
+
+// 圆角
+$border-radius-sm: 0.5rem;
+$border-radius-md: 1rem;
+$border-radius-lg: 2rem;
+$border-radius-full: 50%;
